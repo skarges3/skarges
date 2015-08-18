@@ -4,7 +4,7 @@ section {
 }
 
 .slide {
-	height: 50vh;
+	min-height: 50vh;
 	padding: 2.2em 4em;
 	padding-top: 20vh;
 	text-align: left;

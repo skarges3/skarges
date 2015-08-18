@@ -61,7 +61,7 @@ body {
   background: #fff;
   color: #222;
   cursor: auto;
-  font-family: Futura PT, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "futura-pt", futura-pt, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: 1.5;
@@ -1154,7 +1154,7 @@ button, .button {
   border-style: solid;
   border-width: 0;
   cursor: pointer;
-  font-family: Futura PT, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "futura-pt", futura-pt, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: normal;
   margin: 0 0 1.25rem;
@@ -3364,7 +3364,7 @@ meta.foundation-mq-topbar {
       display: block;
       background-color: #EFEFEF;
       color: #222222;
-      font-family: Futura PT, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+      font-family: "futura-pt", futura-pt, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       font-size: 1rem;
       padding: 1rem 2rem; }
       .tabs dd > a:hover,
@@ -3482,7 +3482,7 @@ ul.pagination {
 
 .side-nav {
   display: block;
-  font-family: Futura PT, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "futura-pt", futura-pt, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   list-style-position: outside;
   list-style-type: none;
   margin: 0;
@@ -3503,7 +3503,7 @@ ul.pagination {
         color: #1cc7ff; }
     .side-nav li.active > a:first-child:not(.button) {
       color: #1cc7ff;
-      font-family: Futura PT, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+      font-family: "futura-pt", futura-pt, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       font-weight: normal; }
     .side-nav li.divider {
       border-top: 1px solid;
@@ -3533,7 +3533,7 @@ ul.pagination {
       background: #EFEFEF;
       color: #222222;
       display: block;
-      font-family: Futura PT, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+      font-family: "futura-pt", futura-pt, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       font-size: 1rem;
       padding: 1rem; }
       .accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
@@ -3729,7 +3729,7 @@ p {
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
   color: #222222;
-  font-family: Futura PT, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "futura-pt", futura-pt, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-style: normal;
   font-weight: 900;
   line-height: 1.4;

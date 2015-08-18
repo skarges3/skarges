@@ -13,6 +13,7 @@ section {
 .slide h1 {
 	line-height: 1.2;
 	margin: 0 auto;
+	max-width: 900px;
 }
 
 .underline {
@@ -33,8 +34,13 @@ section {
 .work {
 	text-align: center;
 	padding: 0;
-	padding: 5em 0em;
+	padding: 5em 4em;
 	min-height: 50vh;	
+}
+
+.thumb {
+	background-color: #666;
+	min-height: 200px;
 }
 
 .work h3 {
@@ -60,6 +66,10 @@ section {
 	
 	.slide{
 		padding: 12em 2em 0em 2em;
+	}
+	
+	.work {
+		padding: 2em 2em 0em 2em;
 	}
 
 }

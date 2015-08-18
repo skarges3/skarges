@@ -40,9 +40,9 @@ section {
 }
 
 .thumb1, .thumb2, .thumb3, .thumb4 {
-	background-image: url('https://static.pexels.com/photos/6656/sky-night-space-galaxy-small.jpeg');
 	min-height: 240px;
 	background-size: cover;
+	background-position: center;
 	padding: 2em;
 	margin-bottom: 1em;
 	width: 100%;
@@ -51,10 +51,27 @@ section {
 	font-weight: 700;
 }
 
+.thumb1 {
+	background-image: url('/img/ss-bkgrnd.jpg');
+}
+
+.thumb2 {
+	background-image: url('/img/kickstandcard.jpg');
+}
+
+.thumb3 {
+	background-image: url('/img/KBSsign.jpg');
+}
+
+.thumb4 {
+	background-image: url('/img/riversongcard.jpg');
+}
+
 .thumb1 h2, .thumb2 h2, .thumb3 h2, .thumb4 h2, .thumb1 h4, .thumb2 h4, .thumb3 h4, .thumb4 h4 {
 	color:#fff;
 	text-align: left;
-	margin: 0;
+	margin-bottom: 20px;
+	line-height: 1;
 }
 
 .work h3 {

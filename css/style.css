@@ -32,7 +32,7 @@ section {
 	margin: 0 auto;
 }
 
-.work {
+.work, .work2 {
 	text-align: center;
 	padding: 0;
 	padding: 5em 4em;
@@ -72,9 +72,11 @@ section {
 	text-align: left;
 	margin-bottom: 20px;
 	line-height: 1;
+	text-shadow: 1px 1px 1px black;
+	font-weight: 700;
 }
 
-.work h3 {
+.work h3, .work2 h3 {
 	font-weight: 700;
 	letter-spacing: 3px;
 }
@@ -99,7 +101,7 @@ section {
 		padding: 5em 2em 0em 2em;
 	}
 	
-	.work {
+	.work, .work2 {
 		padding: 2em 2em 0em 2em;
 	}
 
